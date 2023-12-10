@@ -1,7 +1,7 @@
 # Project-S1
 Student project for C language
 
-This repository houses a console-based Hospital Management System (HMS) implemented in the C programming language. The system provides fundamental functionalities for managing patient information within a hospital setting. Users can execute operations such as adding new patients, displaying patient details, searching for patients, modifying patient information, and gracefully exiting the system.
+This repository houses a console-based Hospital Management System implemented in the C programming language. The system provides fundamental functionalities for managing patient information within a hospital setting. Users can execute operations such as adding new patients, displaying patient details, searching for patients, modifying patient information, and gracefully exiting the system.
 
 Features
 Add New Patient: Input critical details for a new patient, including their name, age, gender, address, and diagnosed disease.
